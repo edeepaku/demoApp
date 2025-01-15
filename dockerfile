@@ -14,7 +14,7 @@ RUN echo "hello world"
 
 COPY . .
 
-VOLUME [ "/deepak" ]
+VOLUME [ "/deepak   " ]
 
 
 CMD ["/bin/sh","-c","python ./demo.py"]
