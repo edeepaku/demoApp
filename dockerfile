@@ -16,5 +16,4 @@ COPY . .
 
 VOLUME [ "/deepak" ]
 
-
 CMD ["/bin/sh","-c","python ./demo.py"]
